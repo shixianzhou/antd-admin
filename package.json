@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "ant-design-vue": "^1.2.4",
+    "less": "^3.9.0",
+    "less-loader": "^4.1.0",
     "vue": "^2.6.6",
     "vue-router": "^3.0.1"
   },
